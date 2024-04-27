@@ -54,8 +54,8 @@
 *.sh       text eol=lf
 *.zsh      text eol=lf
 # These are explicitly windows files and should use crlf
-*.bat      text eol=crlf
-*.cmd      text eol=crlf
+*.bat      text eol=crlf working-tree-encoding=UTF-8
+*.cmd      text eol=crlf working-tree-encoding=UTF-8
 *.ps1      text eol=crlf
 
 # Serialisation
