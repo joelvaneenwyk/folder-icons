@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**Please provide a 500x500 or better image if possible**
+Please provide a 500x500 or better image if possible.

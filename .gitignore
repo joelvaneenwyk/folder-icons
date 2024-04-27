@@ -3,3 +3,5 @@ PNG-to-ICO/Temp
 desktop.ini
 .DS*
 PNGs/*.ico
+node_modules/
+.yarn/
